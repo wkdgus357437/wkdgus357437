@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/%20Notion-11B48A?style=flat-square&logo=notion&logoColor=black&link=https://janghyun0107.notion.site/_-Cho-JangHyun-0f569897d285449cb80845695dbb3d13"/>
 </a>
    &nbsp;&nbsp;&nbsp;
-  <a href="mailto:wkdgus357473@naver.com"><img src="https://img.shields.io/badge/NAVER-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:wkdgus357473@naver.com"/></a>
+  <a href="mailto:wkdgus357437@naver.com"><img src="https://img.shields.io/badge/NAVER-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:wkdgus357437@naver.com"/></a>
   
   </div>
 <br/>
