@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"><!--java-->
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><!--Spring-->
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"><!--SpringBoot-->
+</br>
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <!--node js-->
 <img src="https://img.shields.io/badge/JPA-yellow?style=for-the-badge&logo=JAP&logoColor=white"><!--JPA--> 
 <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white"><!--JSP--> 
@@ -63,6 +64,7 @@
   <h3>🚀 Deploy</h3>
 <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"><!--aws-->
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=aws&logoColor=white"> <!--netlify-->
+</br>
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=aws&logoColor=white"> <!--Heroku-->
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> <!--tomcat-->
 
