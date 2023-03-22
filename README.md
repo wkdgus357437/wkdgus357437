@@ -60,7 +60,7 @@
 <br/>
 <br/>
 
-  <h3>🚀 deploy</h3>
+  <h3>🚀 Deploy</h3>
 <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"><!--aws-->
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=aws&logoColor=white"> <!--netlify-->
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=aws&logoColor=white"> <!--Heroku-->
