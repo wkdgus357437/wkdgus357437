@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"><!--java-->
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><!--Spring-->
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"><!--SpringBoot-->
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <!--node js-->
 <img src="https://img.shields.io/badge/JPA-yellow?style=for-the-badge&logo=JAP&logoColor=white"><!--JPA--> 
 <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white"><!--JSP--> 
 <br/>
@@ -39,7 +40,6 @@
   <h3>💻 Front-End </h3>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <!--jquery-->
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <!--react-->
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <!--node js-->
 <img src="https://img.shields.io/badge/hHTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <!--html-->
 </br>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
