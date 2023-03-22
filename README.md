@@ -41,7 +41,7 @@
   <h3>💻 Front-End </h3>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <!--jquery-->
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <!--react-->
-<img src="https://img.shields.io/badge/hHTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <!--html-->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <!--html-->
 </br>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <!--javascript-->
